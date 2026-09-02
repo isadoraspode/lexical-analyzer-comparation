@@ -1,1 +1,1 @@
-# lexical-analyzer-comparition
+# lexical-analyzer-comparation
